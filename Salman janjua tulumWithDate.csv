@@ -1,0 +1,11 @@
+Color,Size,Shape,Fruit,Price Level,Buy
+Red,Small,Circle,Apple,High,Yes
+Blue,Large,Triangle,Banana,Low,No
+Green,Medium,Square,Oragne,Medium,Yes
+Yellow,Small,Circle,Lemon,Low,Yes
+Red,Large,Circle,Strawberry,High,No
+Yellow,Medium,Square,Lemon,Medium,Yes
+Blue,Small,Triangle,Apple,Low,No
+Green,Large,Circle,Oragne,Medium,Yes
+Red,Medium,Circle,Banana,High,No
+Yellow,Large,Square,Lemon,Low,Yes
